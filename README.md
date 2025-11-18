@@ -36,6 +36,8 @@ step 8: change directory from where you will open data
 
 step 9: run it and it should show the result you can also change feauters for this model (its explained in file)
 
+!!!dont forget to change "data.csv" to your real file name and directory!!!
+
 I want to add that my Eda is file and it can be easyli opened in visual studio code
 
 Some additional information about this project:
