@@ -18,7 +18,7 @@ The final solution uses XGBoost, which achieved the best performance (R² ≈ 0.
 "Some features, such as wage, overall rating, and potential, have extremely strong correlation with market value. As a result, models like XGBoost can achieve very high R². This is realistic given how football player values are decided in practice."
 
 How to use: 
-step 1: Download all stuff in requirenment.txt most of them you can easyli be downloaded by typed in cmd:  pip install "all things from requirenments" 
+step 1: Download all stuff in requirenment.txt most of them you can easily be downloaded by typed in cmd:  pip install "all things from requirenments" 
 
 step 2: download data Career_Mode_ player datasets_FIFA_15-21.csv
 
@@ -38,7 +38,7 @@ step 9: run it and it should show the result you can also change feauters for th
 
 !!!dont forget to change "data.csv" to your real file name and directory!!!
 
-I want to add that my Eda is file and it can be easyli opened in visual studio code
+I want to add that my Eda is file and it can be easily opened in visual studio code
 
 Some additional information about this project:
 
